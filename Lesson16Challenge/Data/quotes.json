@@ -1,0 +1,43 @@
+[
+        {"name": "Chuck Belcher",
+         "image": "calm",
+         "quotes": [
+                    "The only direction is foward",
+                    "Fammily first, family last",
+                    "Time to go to work"
+            ]
+        },
+        {"name": "Haley Belcher",
+         "image": "reflect",
+         "quotes": [
+                    "Heidi, come here right now",
+                    "I should be a photographer",
+                    "Heidi realy likes Salmon Oil"
+            ]
+        },
+        {"name": "Sean Belcher",
+         "image": "focus",
+         "quotes": [
+                    "Get to the Gym !!",
+                    "Triumph motorcycles rock"
+            ]
+        },
+        {"name": "Christina Belcher",
+         "image": "focus",
+         "quotes": [
+                    "Chuck is the best husband ever",
+                    "Dont make a mess in my house",
+                    "Sean is my favorite",
+                    "Vacations are for the grandchildren"
+            ]
+        },
+        {"name": "Kirsten Belcher",
+         "image": "reflect2",
+         "quotes": [
+                    "Shutup and do your drill",
+                    "Real people live in the hood",
+                    "Sean's not going to like that",
+                    "Can you hold Heidi"
+            ]
+        }
+]
